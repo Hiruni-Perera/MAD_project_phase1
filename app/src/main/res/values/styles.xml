@@ -1,0 +1,68 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="button_01">
+        <item name="android:layout_width">168dp</item>
+        <item name="android:layout_height">42dp</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#000000</item>
+
+    </style>
+
+    <style name="text_01">
+        <item name="android:layout_width">233dp</item>
+        <item name="android:layout_height">45dp</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">#000080</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="button_02">
+        <item name="android:layout_width">244dp</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+
+    <style name="text_02">
+        <item name="android:layout_width">259dp</item>
+        <item name="android:layout_height">47dp</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#000080</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="edit_text01">
+        <item name="android:layout_width">245dp</item>
+        <item name="android:layout_height">47dp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+
+
+    <style name="edit_text02">
+        <item name="android:layout_width">276dp</item>
+        <item name="android:layout_height">158dp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+
+    <style name="spinner01">
+        <item name="android:layout_width">249dp</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="text_03">
+        <item name="android:layout_width">170dp</item>
+        <item name="android:layout_height">47dp</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+
+</resources>

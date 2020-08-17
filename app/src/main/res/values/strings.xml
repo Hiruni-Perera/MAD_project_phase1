@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">EASY APP</string>
+    <string name="txt1">Weekly Plans</string>
+    <string name="btn1">create my task</string>
+    <string name="btn2">show task with categories</string>
+    <string name="txt2">Create My Task</string>
+    <string name="btn3">Add Task</string>
+    <string name="txt3">View My Task</string>
+    <string name="btn4">Edit Task</string>
+    <string name="btn5">Delete Task</string>
+    <string name="btn6">Mark as done</string>
+    <string name="txt4">Prepare for the meeting</string>
+    <string name="txt5">I have to prepare for the meeting on next sunday</string>
+    <string name="txt6">Tasks With Categories</string>
+    <string name="txt7">Academic Tasks</string>
+    <string name="txt8">Professional Tasks</string>
+    <string name="txt9">Personal Tasks</string>
+</resources>
